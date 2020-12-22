@@ -1,22 +1,3 @@
-### Hi there 👋
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-
-<head>
-  <meta charset="utf-8">
-  <title>HOBBIES</title>
-</head>
-<h1>HOBBIES</h1>
-<body>
-  <ol>
-    <li> Football </li>
-    <li> <a href="https://youtu.be/W-eZL15a9U8">Computer Gaming</a> </li>
-    <li> <a href="https://photos.google.com/search/_p0x68c76f761cb85a66_Sharjah/photo/AF1QipOkUBRAYNqEGWmV52wBcsmwa0R7BmXupb8fBUIJ/edit">Cycling</a></li </ol>
-
-</body>
-
-</html>
-
 
 <!DOCTYPE html>
 <html>
@@ -99,35 +80,5 @@
     <a href="C:\Users\Mustafa Anis\Desktop\WEB DEVELOPMENT\contact-me.html">Contact Me</a>
     
 
-
-</html>
-
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-
-<head>
-  <meta charset="utf-8">
-  <title>CONTACT ME</title>
-</head>
-<h1>CONTACT ME:</h1>
-
-<body>
-  <p>My Adress : UAE, SHARJAH, AL NUD, QASIMIA</p>
-  <p>My Number : 0564985263 </p>
-  <p>My Email Address : mohd.anis.ngp@gmail.com </p>
-
-  <form  action="mailto:mohd.anis.ngp@gmail.com" method="post"enctype="text/plain"
-<hr>
-  <label>Your Name:</label>
-  <input type= "text" name="" value""> <br>
-  <label>Your Email:</label>
-  <input type= "email" name="" value""> <br>
-  <label>Your Message:</label> <br>
-  <textarea name="name" rows="10" cols="20"></textarea> <br>
-  <input type= "submit" name=""> <br>
-  </form>
-
-
-</body>
 
 </html>
